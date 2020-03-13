@@ -6,6 +6,8 @@
 	<packaging>war</packaging>
 	<version>1.0-SNAPSHOT</version>
 	<name>spring3 mvc maven</name>
+	<!-- Demo on git hub -->
+	<!-- Demo on git hub heloo baby-->
 
 	<properties>
 		<jdk.version>1.6</jdk.version>
